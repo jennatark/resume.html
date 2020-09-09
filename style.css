@@ -1,0 +1,46 @@
+body {
+      background-image: url("whitespace-3435350.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;}
+h1 {color: black;
+  text-align: center;
+  font-size: 35px;
+  font-family: serif;
+  }
+body {color:black;}
+p {
+  color: black;}
+.Intro{
+  color: black;
+  text-align: center;
+  vertical-align: sub;
+  font-size: 25px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+.box {
+   background-color: white;
+   width: 300px;
+   padding: 20px;
+   position: relative;}
+
+.image_bottom {
+   position: relative ;
+   bottom: 80px;
+   text-align: center;
+   font-size: 35px;
+   color:white;
+   font-family: serif;
+   text-shadow: 3px 1px #000000;
+   }
+
+   a:hover {
+     color: #f54293;
+     background-color: transparent;
+     text-decoration: underline;
+   }
